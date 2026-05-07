@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+server.*.log
+.tools/
+ngrok.*.log
+event_log.sqlite3
+event_log.sqlite3-*
